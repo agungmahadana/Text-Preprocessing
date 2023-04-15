@@ -54,6 +54,15 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+- [Python](https://www.python.org/)
+- [Jupyter](https://jupyter.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINK & IMAGE -->
 
 [jupyter.org]: https://img.shields.io/badge/jupyter-gray?style=for-the-badge&logo=jupyter
