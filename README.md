@@ -12,7 +12,7 @@ Use the `README.md` to get started.
 
 ## Built With
 
-- [![Python][python.org]](https://www.python.org/)
+- [![Jupyter][jupyter.org]](https://jupyter.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,4 +56,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 <!-- MARKDOWN LINK & IMAGE -->
 
-[python.org]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+[jupyter.org]: https://img.shields.io/badge/jupyter-gray?style=for-the-badge&logo=jupyter
